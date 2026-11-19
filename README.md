@@ -74,8 +74,8 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/mcncarl/jianying-headless.git
-cd jianying-headless
+git clone https://github.com/Elvinooo/jianying.git
+cd jianying
 python3 tools/build_native_codec.py
 python3 skills/yichen-jianying-edit/scripts/headless_draft.py doctor
 ```
